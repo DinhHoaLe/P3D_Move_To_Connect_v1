@@ -1,0 +1,10 @@
+# Visual Studio local settings and locked caches
+.vs/
+*.user
+*.suo
+
+# Generated .NET build outputs (including test projects)
+**/bin/
+**/obj/
+/artifacts/
+TestResults/
